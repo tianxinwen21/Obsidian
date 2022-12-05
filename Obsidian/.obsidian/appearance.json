@@ -1,0 +1,10 @@
+{
+  "accentColor": "#b46bef",
+  "theme": "moonstone",
+  "cssTheme": "Blue Topaz",
+  "interfaceFontFamily": "Consolas",
+  "textFontFamily": "微软雅黑",
+  "monospaceFontFamily": "Consolas",
+  "baseFontSize": 16,
+  "translucency": false
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "ToDo看板",
+      "path": "7.生活笔记/ToDo看板.md"
+    },
+    {
+      "type": "file",
+      "title": "计算机科学",
+      "path": "01.目录/ComputerScience.md"
+    },
+    {
+      "type": "file",
+      "title": "读书",
+      "path": "01.目录/Book.md"
+    },
+    {
+      "type": "file",
+      "title": "数学",
+      "path": "01.目录/Math.md"
+    },
+    {
+      "type": "file",
+      "title": "计算机科学",
+      "path": "A.目录/计算机科学.md"
+    },
+    {
+      "type": "file",
+      "title": "Math",
+      "path": "A.目录/Math.md"
+    }
+  ]
+}

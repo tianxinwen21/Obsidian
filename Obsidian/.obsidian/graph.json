@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:Projects",
+      "color": {
+        "a": 1,
+        "rgb": 15143699
+      }
+    },
+    {
+      "query": "tag:input",
+      "color": {
+        "a": 1,
+        "rgb": 2863622
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.19871134020619,
+  "lineSizeMultiplier": 1.63651202749141,
+  "collapse-forces": false,
+  "centerStrength": 0.351374570446735,
+  "repelStrength": 8.53951890034364,
+  "linkStrength": 0.969931271477663,
+  "linkDistance": 190,
+  "scale": 0.7478537827650175,
+  "close": false
+}

@@ -1,0 +1,2 @@
+# Obsidian
+Obsidian 's Data

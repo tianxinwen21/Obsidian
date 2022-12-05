@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "1d861657a2274a06",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dc032f419d4450b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94731c8762fd3e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOX/预处理和链接.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "078e94c5c3cbedb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOX/C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99e100baeb67a9bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "14e3bd216c00631a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "700962aed4456d0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6bb3f4e0be14076e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3bfd37c44a90c8a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6ea0a165a706cb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e35a3265e3906920",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BOX/预处理和链接.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f4eb7a7983f65955",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BOX/预处理和链接.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e6ee6eb0d5c4950",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8d710d3bfc3d6df5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BOX/预处理和链接.md"
+              }
+            }
+          },
+          {
+            "id": "bb67cb8be328635d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "active": "94731c8762fd3e2a",
+  "lastOpenFiles": [
+    "BOX/C.md",
+    "BOX/预处理和链接.md",
+    "BOX/CS.md",
+    "BOX/Java.md",
+    "BOX/OOP三大特性：封装、继承、多态.md",
+    "BOX/类和对象.md",
+    "BOX/Object类.md",
+    "BOX/认识异常.md",
+    "BOX/前置知识.md",
+    "BOX/基础语法.md"
+  ]
+}

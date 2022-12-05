@@ -20,22 +20,27 @@
             }
           },
           {
-            "id": "078e94c5c3cbedb5",
+            "id": "06ebef76b18288f8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BOX/预处理和链接.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "e69e216f917e701b",
+            "id": "aad1bbabb10df317",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,17 +155,17 @@
     "direction": "horizontal",
     "width": 247.5
   },
-  "active": "94731c8762fd3e2a",
+  "active": "06ebef76b18288f8",
   "lastOpenFiles": [
-    "BOX/CS.md",
-    "BOX/预处理和链接.md",
     "BOX/C.md",
-    "BOX/Java.md",
-    "BOX/OOP三大特性：封装、继承、多态.md",
-    "BOX/类和对象.md",
-    "BOX/Object类.md",
-    "BOX/认识异常.md",
-    "BOX/前置知识.md",
-    "BOX/基础语法.md"
+    "BOX/C语言文件操作.md",
+    "BOX/柔性数组.md",
+    "BOX/动态内存.md",
+    "BOX/分支语句和循环语句.md",
+    "BOX/操作符.md",
+    "BOX/函数.md",
+    "BOX/自定义类型.md",
+    "BOX/进阶指针.md",
+    "BOX/数据的储存.md"
   ]
 }

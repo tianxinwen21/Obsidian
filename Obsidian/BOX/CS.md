@@ -1,5 +1,0 @@
-[Mysql](Mysql.md)
-[System](System.md)
-[Java](Java.md)
-[C](C.md)
-[CS50x](CS50x.md)

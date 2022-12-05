@@ -12,5 +12,7 @@
   "obsidian-reading-time",
   "obsidian-emoji-toolbar",
   "obsidian-auto-link-title",
-  "dataview"
+  "dataview",
+  "obsidian-image-auto-upload-plugin",
+  "obsidian-image-toolkit"
 ]

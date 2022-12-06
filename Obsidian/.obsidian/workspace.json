@@ -20,27 +20,19 @@
             }
           },
           {
-            "id": "aad1bbabb10df317",
+            "id": "a832f663cce441d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOX/OOP三大特性：封装、继承、多态.md",
+                "file": "BOX/各种存储器件的定义及关系.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "6e8ae2a1f705c4a2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BOX/各种存储器件的定义及关系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BOX/各种存储器件的定义及关系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BOX/各种存储器件的定义及关系.md"
+              }
             }
           },
           {
@@ -151,17 +147,17 @@
     "direction": "horizontal",
     "width": 247.5
   },
-  "active": "6e8ae2a1f705c4a2",
+  "active": "a832f663cce441d1",
   "lastOpenFiles": [
-    "BOX/MySQL 基本操作.md",
-    "BOX/我写了一个系统.md",
-    "BOX/Scratch.md",
+    "BOX/各种存储器件的定义及关系.md",
+    "BOX/System.md",
+    "BOX/预处理和链接.md",
     "BOX/OOP三大特性：封装、继承、多态.md",
+    "BOX/我写了一个系统.md",
+    "BOX/MySQL 基本操作.md",
+    "BOX/Scratch.md",
     "BOX/Java.md",
     "BOX/类和对象.md",
-    "BOX/Object类.md",
-    "BOX/认识异常.md",
-    "BOX/前置知识.md",
-    "BOX/基础语法.md"
+    "BOX/Object类.md"
   ]
 }

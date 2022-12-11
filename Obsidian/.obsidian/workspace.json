@@ -4,35 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "9dc032f419d4450b",
+        "id": "b1d8ed4cc4e42aa1",
         "type": "tabs",
         "children": [
           {
-            "id": "94731c8762fd3e2a",
+            "id": "1d2a00c98b8c45da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOX/预处理和链接.md",
+                "file": "BOX/week1 C.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a832f663cce441d1",
+            "id": "3571a6afb71b68de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOX/各种存储器件的定义及关系.md",
+                "file": "BOX/基础语法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c7cdfb866c82d7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOX/Java之数据类型.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BOX/各种存储器件的定义及关系.md",
+                "file": "BOX/week1 C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BOX/各种存储器件的定义及关系.md",
+                "file": "BOX/week1 C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BOX/各种存储器件的定义及关系.md"
+                "file": "BOX/week1 C.md"
               }
             }
           },
@@ -147,17 +158,17 @@
     "direction": "horizontal",
     "width": 247.5
   },
-  "active": "a832f663cce441d1",
+  "active": "1d2a00c98b8c45da",
   "lastOpenFiles": [
-    "BOX/各种存储器件的定义及关系.md",
-    "BOX/System.md",
-    "BOX/预处理和链接.md",
-    "BOX/OOP三大特性：封装、继承、多态.md",
-    "BOX/我写了一个系统.md",
-    "BOX/MySQL 基本操作.md",
-    "BOX/Scratch.md",
-    "BOX/Java.md",
-    "BOX/类和对象.md",
-    "BOX/Object类.md"
+    "BOX/基础语法.md",
+    "BOX/Java之数据类型.md",
+    "BOX/初阶指针.md",
+    "BOX/Pasted image 20221117194323.png.md",
+    "BOX/Pasted image 20221117192525.png.md",
+    "BOX/C.md",
+    "BOX/week1 C.md",
+    "BOX/week0 Scratch.md",
+    "BOX/CS50x.md",
+    "BOX/预处理和链接.md"
   ]
 }
